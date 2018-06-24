@@ -1,4 +1,4 @@
-var numSquares = 6;
+var numSquares = 9;
 var colors = [];
 var pickedColor;
 
